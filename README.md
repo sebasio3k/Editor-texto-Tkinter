@@ -29,5 +29,5 @@ A continuación en la misma ruta en que se encuentren los archivos "calculadora.
 
     pyinstaller --windowed --onefile --icon=calculadora.ico calculadora.py
 
- **El archivo ejecutable se encotrará en la carpeta "dist"**
+ *El archivo ejecutable se encotrará en la carpeta "dist"
 ```
