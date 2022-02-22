@@ -25,9 +25,9 @@ Se instalará el paquete pyinstaler con el comando:
 
     pip install pyinstaller
   
-A continuación en la misma ruta en que se encuentren los archivos "calculadora.py" y "calculadora.ico" ejecutar el siguiente comando:
+A continuación en la misma ruta en que se encuentren los archivos "editor_texto.py" y "txt.png" ejecutar el siguiente comando:
 
-    pyinstaller --windowed --onefile --icon=calculadora.ico calculadora.py
+    pyinstaller --windowed --onefile --icon=txt.png editor_texto.py
 
  * El archivo ejecutable se encotrará en la carpeta "dist"
 ```
