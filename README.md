@@ -1,6 +1,4 @@
 # Editor Texto Tkinter
-Aplicación de e en python con interfaz gráfica Tkinter
-
 
 
 <p align="center">
