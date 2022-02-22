@@ -23,11 +23,11 @@ Aplicación de e en python con interfaz gráfica Tkinter
 ```
 Se instalará el paquete pyinstaler con el comando:
 
-  pip install pyinstaller
+    pip install pyinstaller
   
 A continuación en la misma ruta en que se encuentren los archivos "calculadora.py" y "calculadora.ico" ejecutar el siguiente comando:
 
-pyinstaller --windowed --onefile --icon=calculadora.ico calculadora.py
+    pyinstaller --windowed --onefile --icon=calculadora.ico calculadora.py
 
-El archivo ejecutable se encotrará en la carpeta "dist"
+ **El archivo ejecutable se encotrará en la carpeta "dist"**
 ```
