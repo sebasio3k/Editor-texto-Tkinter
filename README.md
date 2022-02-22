@@ -1,4 +1,4 @@
-# Editor-texto-Tkinter
+# Editor Texto Tkinter
 Aplicación de e en python con interfaz gráfica Tkinter
 
 
